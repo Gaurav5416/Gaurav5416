@@ -2,7 +2,7 @@
   <h1>Hi, I'm Gourav Vaidya 👋</h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Founding+Engineer+%7C+AI+Infrastructure;Building+RL+Gyms+%26+Agent+Evals;Architecting+Distributed+Systems">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=059669&center=true&vCenter=true&width=800&lines=Founding+Engineer+%7C+AI+Infrastructure;Building+RL+Gyms+%26+Agent+Evals;Architecting+Distributed+Systems">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A7F37&center=true&vCenter=true&width=800&lines=Founding+Engineer+%7C+AI+Infrastructure;Building+RL+Gyms+%26+Agent+Evals;Architecting+Distributed+Systems">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Founding+Engineer+%7C+AI+Infrastructure;Building+RL+Gyms+%26+Agent+Evals;Architecting+Distributed+Systems" alt="Typing SVG" />
   </picture>
 </div>
