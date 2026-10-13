@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Gourav Vaidya 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Founding+Engineer+%7C+AI+Infrastructure;Building+RL+Gyms+%26+Agent+Evals;Architecting+Distributed+Systems" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Founding+Engineer+%7C+AI+Infrastructure;Building+RL+Gyms+%26+Agent+Evals;Architecting+Distributed+Systems">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=059669&center=true&vCenter=true&width=800&lines=Founding+Engineer+%7C+AI+Infrastructure;Building+RL+Gyms+%26+Agent+Evals;Architecting+Distributed+Systems">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Founding+Engineer+%7C+AI+Infrastructure;Building+RL+Gyms+%26+Agent+Evals;Architecting+Distributed+Systems" alt="Typing SVG" />
+  </picture>
 </div>
 
 <br/>
@@ -27,14 +31,8 @@ I am hyper-focused on **AI inference and serving infrastructure**. I want to tac
 <div align="center">
   <p><strong>Languages & Frameworks</strong></p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,fastapi,nodejs,react,graphql" alt="Languages" /></a>
-  
-  <br/><br/>
-  
   <p><strong>Cloud, Systems & DevOps</strong></p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git" alt="Cloud" /></a>
-
-  <br/><br/>
-
   <p><strong>Databases</strong></p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" /></a>
 </div>
